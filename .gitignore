@@ -1,1 +1,15 @@
+# Large dataset files
 data/
+
+# LibreOffice / Word temporary lock files
+.~lock*
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
